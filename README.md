@@ -1,4 +1,6 @@
-# Scrumptious sample
+# [Archive] Scrumptious sample
+
+**Note:** *This repository is not under active development.*
 
 ## What is Scrumptious
 
